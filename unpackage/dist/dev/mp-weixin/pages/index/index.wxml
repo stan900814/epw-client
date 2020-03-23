@@ -1,0 +1,1 @@
+<view class="data-v-0ae6a7f1"><view class="top_bar data-v-0ae6a7f1"><text data-event-opts="{{[['tap',[['change',[1]]]]]}}" bindtap="__e" class="data-v-0ae6a7f1">正在进行</text><text data-event-opts="{{[['tap',[['change',[2]]]]]}}" bindtap="__e" class="data-v-0ae6a7f1">已结束</text></view><view class="main data-v-0ae6a7f1"></view><view class="bottom_tabbar data-v-0ae6a7f1"></view></view>
